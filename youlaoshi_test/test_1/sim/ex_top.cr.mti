@@ -1,0 +1,22 @@
+D:/Zynq/youlaoshi_test/test_1/design/top.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_test/test_1/design/top.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/Zynq/youlaoshi_test/test_1/sim/tb_top.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_test/test_1/sim/tb_top.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} D:/Zynq/youlaoshi_test/test_1/design/ex_cnt.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_test/test_1/design/ex_cnt.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module ex_cnt
+
+Top level modules:
+	ex_cnt
+
+} {} {}}

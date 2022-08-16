@@ -1,0 +1,15 @@
+D:/Zynq/youlaoshi_first/key_homework/sim/tb_key.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/key_homework/sim/tb_key.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_key
+
+Top level modules:
+	tb_key
+
+} {} {}} D:/Zynq/youlaoshi_first/key_homework/design/key.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/key_homework/design/key.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module key
+
+Top level modules:
+	key
+
+} {} {}}

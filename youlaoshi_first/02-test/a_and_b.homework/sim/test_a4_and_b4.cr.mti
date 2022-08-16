@@ -1,0 +1,15 @@
+D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim/test_a4_and_b4_tb.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim/test_a4_and_b4_tb.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module test_a4_and_b4_tb
+
+Top level modules:
+	test_a4_and_b4_tb
+
+} {} {}} D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/design/test_a4_and_b4.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/design/test_a4_and_b4.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module test_a4_and_b4
+
+Top level modules:
+	test_a4_and_b4
+
+} {} {}}

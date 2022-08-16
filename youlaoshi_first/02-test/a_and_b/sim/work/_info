@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modeltech64_10.7/examples
+T_opt
+!s110 1660618107
+VUH6a7;?aO<g=_RTL=_Gk43
+04 10 4 work tb_a_and_b fast 0
+=1-88a4c299047a-62fb057a-3d0-3b1c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+va_and_b
+Z1 !s110 1660618088
+!i10b 1
+!s100 M;:aB[98`5[zWSQ`Aj@n?2
+I^>Oi`ED31h1@EXc7OJM6X3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Zynq/youlaoshi_first/02-test/sim
+w1660617367
+8D:/Zynq/youlaoshi_first/02-test/design/a_and_b.v
+FD:/Zynq/youlaoshi_first/02-test/design/a_and_b.v
+L0 2
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+Z5 !s108 1660618088.000000
+!s107 D:/Zynq/youlaoshi_first/02-test/design/a_and_b.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/02-test/design/a_and_b.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_a_and_b
+R1
+!i10b 1
+!s100 AQ`Z37oZKHMcHU`RMj?k`0
+In25C18>4`24_^0RR04KKf1
+R2
+R3
+w1660617963
+8D:/Zynq/youlaoshi_first/02-test/sim/tb_a_and_b.v
+FD:/Zynq/youlaoshi_first/02-test/sim/tb_a_and_b.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Zynq/youlaoshi_first/02-test/sim/tb_a_and_b.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/02-test/sim/tb_a_and_b.v|
+!i113 0
+R6
+R0

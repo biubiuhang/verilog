@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modeltech64_10.7/examples
+T_opt
+!s110 1660632994
+VgVNccGb3>W1A[bCNfR:o]0
+04 17 4 work test_a4_and_b4_tb fast 0
+=2-88a4c299047a-62fb3fa1-399-b34
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vtest_a4_and_b4
+!s110 1660630966
+!i10b 1
+!s100 baBjYKh8XgUjYee28;W1?3
+Im>AiR<H];kj_YVK:iL_Re1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim
+w1660630872
+8D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/design/test_a4_and_b4.v
+FD:/Zynq/youlaoshi_first/02-test/a_and_b.homework/design/test_a4_and_b4.v
+L0 1
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1660630966.000000
+!s107 D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/design/test_a4_and_b4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/design/test_a4_and_b4.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtest_a4_and_b4_tb
+!s110 1660632877
+!i10b 1
+!s100 >Uz<iVh83aV9@@7zi3lfH2
+I>>lO^_IW:bEc;aELNzG@@1
+R1
+R2
+w1660632864
+8D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim/test_a4_and_b4_tb.v
+FD:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim/test_a4_and_b4_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1660632877.000000
+!s107 D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim/test_a4_and_b4_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/02-test/a_and_b.homework/sim/test_a4_and_b4_tb.v|
+!i113 0
+R4
+R0
