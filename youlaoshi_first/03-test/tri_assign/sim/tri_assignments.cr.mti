@@ -1,0 +1,15 @@
+D:/Zynq/youlaoshi_first/03-test/design/tri_assignments.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/03-test/design/tri_assignments.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tri_assignments
+
+Top level modules:
+	tri_assignments
+
+} {} {}} D:/Zynq/youlaoshi_first/03-test/sim/tb_tri_assignments.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/03-test/sim/tb_tri_assignments.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_tri_assignments
+
+Top level modules:
+	tb_tri_assignments
+
+} {} {}}
