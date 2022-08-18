@@ -1,0 +1,15 @@
+D:/Zynq/youlaoshi_first/04-test/sim/tb_bit_shift.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/04-test/sim/tb_bit_shift.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_bit_shift
+
+Top level modules:
+	tb_bit_shift
+
+} {} {}} D:/Zynq/youlaoshi_first/04-test/design/bit_shift.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/04-test/design/bit_shift.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module bit_shift
+
+Top level modules:
+	bit_shift
+
+} {} {}}

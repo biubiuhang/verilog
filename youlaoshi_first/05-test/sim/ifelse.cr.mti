@@ -1,0 +1,8 @@
+D:/Zynq/youlaoshi_first/05-test/design/ifelse.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/05-test/design/ifelse.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module ifelse
+
+Top level modules:
+	ifelse
+
+} {} {}}
