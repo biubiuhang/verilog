@@ -5,4 +5,11 @@ Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
 Top level modules:
 	pulses_reg
 
+} {} {}} D:/Zynq/youlaoshi_first/07-test/sim/tb_pulses_reg.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/07-test/sim/tb_pulses_reg.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_pulses_reg
+
+Top level modules:
+	tb_pulses_reg
+
 } {} {}}

@@ -1,0 +1,124 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Zynq/youlaoshi_first/net9_clkdiv/sim
+T_opt
+!s110 1661311473
+VhFY=M^;<U^A7CzmG=DLG31
+04 6 4 work tb_top fast 0
+=1-88a4c299047a-630599f1-101-e50c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+va_and_b
+Z1 !s110 1661311469
+!i10b 1
+!s100 Dj8C9FTgH9kAdJi4KoD[z0
+I;YF_3HOVY`SNK^c_h9HbC0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Zynq/youlaoshi_first/10-top_test/sim
+w1661311398
+Z4 8D:/Zynq/youlaoshi_first/10-top_test/design/a_and_b.v
+Z5 FD:/Zynq/youlaoshi_first/10-top_test/design/a_and_b.v
+L0 1
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1661311469.000000
+Z8 !s107 D:/Zynq/youlaoshi_first/10-top_test/design/a_and_b.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/10-top_test/design/a_and_b.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+va_and_v
+!s110 1661311340
+!i10b 1
+!s100 J`9ZaG7b4dzH=i4KlhC5G2
+Iz]`B0jB97D:MeGJI3g1mD3
+R2
+R3
+w1661309902
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1661311340.000000
+R8
+R9
+!i113 0
+R10
+R0
+vdiv_clk
+R1
+!i10b 1
+!s100 A1`ILF0G164N`[7U60NzY0
+I?gG9@g;ZdZZ0i5EDnbk560
+R2
+R3
+w1661309256
+8D:/Zynq/youlaoshi_first/10-top_test/design/div_clk.v
+FD:/Zynq/youlaoshi_first/10-top_test/design/div_clk.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Zynq/youlaoshi_first/10-top_test/design/div_clk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/10-top_test/design/div_clk.v|
+!i113 0
+R10
+R0
+vtb_top
+R1
+!i10b 1
+!s100 [ieELWgVVUE53hISYzFWg3
+ICceCm5i;Xf>V6[mfD;7]61
+R2
+R3
+w1661311240
+8D:/Zynq/youlaoshi_first/10-top_test/sim/tb_top.v
+FD:/Zynq/youlaoshi_first/10-top_test/sim/tb_top.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Zynq/youlaoshi_first/10-top_test/sim/tb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/10-top_test/sim/tb_top.v|
+!i113 0
+R10
+R0
+vtop
+R1
+!i10b 1
+!s100 L^lOIdT8[c1[ICMGnJYB<0
+I@UOz24Oz^ZhMN8JGcfci>0
+R2
+R3
+w1661311464
+8D:/Zynq/youlaoshi_first/10-top_test/design/top.v
+FD:/Zynq/youlaoshi_first/10-top_test/design/top.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Zynq/youlaoshi_first/10-top_test/design/top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/10-top_test/design/top.v|
+!i113 0
+R10
+R0

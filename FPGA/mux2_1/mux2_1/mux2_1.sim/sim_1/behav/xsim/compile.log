@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Zynq/FPGA/mux2_1/mux2_1.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module mux2_1
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Zynq/FPGA/mux2_1/mux2_1_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module mux2_1_tb
-ERROR: [VRFC 10-9208] no definition could be found for port 'a' [D:/Zynq/FPGA/mux2_1/mux2_1_tb.v:3]
-ERROR: [VRFC 10-8530] module 'mux2_1_tb' is ignored due to previous errors [D:/Zynq/FPGA/mux2_1/mux2_1_tb.v:3]

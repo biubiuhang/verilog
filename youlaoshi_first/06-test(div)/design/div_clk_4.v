@@ -1,7 +1,7 @@
 module div_clk_4(
     input   wire                  clk,
     input   wire                  rst,
-    output  reg     [1:0]         po_cnt
+    output  reg     [1:0]         po_cnt = 'd0
 );
 // div counter
 reg     [1:0]   div_cnt;

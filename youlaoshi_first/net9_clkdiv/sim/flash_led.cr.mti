@@ -1,0 +1,15 @@
+D:/Zynq/youlaoshi_first/net9_clkdiv/sim/tb_flash_led.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/net9_clkdiv/sim/tb_flash_led.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_flash_led
+
+Top level modules:
+	tb_flash_led
+
+} {} {}} D:/Zynq/youlaoshi_first/net9_clkdiv/design/flash_led.v {1 {vlog -work work -vopt -stats=none D:/Zynq/youlaoshi_first/net9_clkdiv/design/flash_led.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module flash_led
+
+Top level modules:
+	flash_led
+
+} {} {}}

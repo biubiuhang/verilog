@@ -13,7 +13,7 @@ end
 
 always #10 clk = ~clk;
 
-div_clk div_clk_inst(
+div_clk_4 div_clk_4_inst(
     .clk(clk),
     .rst(rst),
     .po_cnt(po_cnt)

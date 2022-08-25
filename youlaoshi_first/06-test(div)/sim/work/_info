@@ -1,0 +1,155 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Zynq/youlaoshi_first/07-test/sim
+T_opt
+!s110 1661137138
+V]9;25l?QUA`NiRXEPJ8XB0
+04 12 4 work tb_div_clk_4 fast 0
+=2-88a4c299047a-6302f0f1-3c6-93f4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1661140066
+Vg33O;0]CYIe;0;iPD5`KJ3
+04 14 4 work tb_div_clk_4_2 fast 0
+=1-88a4c299047a-6302fc62-19e-8390
+R1
+R2
+n@_opt1
+R3
+vdiv_clk
+Z4 !s110 1661140052
+!i10b 1
+!s100 JiJ_OMd`lR:iEE=fmT:HK3
+Iz_XJTY_U==BAZEK@DBGo01
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Zynq/youlaoshi_first/06-test(div)/sim
+w1661136928
+8D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk.v
+FD:/Zynq/youlaoshi_first/06-test(div)/design/div_clk.v
+L0 1
+Z7 OL;L;10.7;67
+r1
+!s85 0
+31
+Z8 !s108 1661140052.000000
+!s107 D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdiv_clk_4
+R4
+!i10b 1
+!s100 gJOaEPa3cz3@BGec6Llek0
+I5ACde`Y3m;T7A`?]k`o6f2
+R5
+R6
+w1661137110
+8D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4.v
+FD:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4.v|
+!i113 0
+R9
+R2
+vdiv_clk_4_2
+R4
+!i10b 1
+!s100 Yjehh3JGTOhM:B8k>cWeN1
+IAQ16<_CcHI6legf3XdB831
+R5
+R6
+w1661139959
+8D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4_2.v
+FD:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4_2.v
+L0 4
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/06-test(div)/design/div_clk_4_2.v|
+!i113 0
+R9
+R2
+vtb_div_clk
+R4
+!i10b 1
+!s100 LoMaj5aUnZgS>Kn2TaH5d3
+I2^3HFzLScgi7JLn1k0n1n1
+R5
+R6
+w1661136983
+8D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk.v
+FD:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk.v|
+!i113 0
+R9
+R2
+vtb_div_clk_4
+R4
+!i10b 1
+!s100 AQT189DlB^;kTXidnZ1nB1
+Iakm8XR3WfjhRYE<gN8Eok1
+R5
+R6
+w1661136935
+8D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4.v
+FD:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4.v|
+!i113 0
+R9
+R2
+vtb_div_clk_4_2
+R4
+!i10b 1
+!s100 Y8n[Y@SMYfi<lgQE1odjM2
+IkAFXTL^B5_FJQ[PHgkid32
+R5
+R6
+w1661139955
+8D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4_2.v
+FD:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4_2.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/06-test(div)/sim/tb_div_clk_4_2.v|
+!i113 0
+R9
+R2

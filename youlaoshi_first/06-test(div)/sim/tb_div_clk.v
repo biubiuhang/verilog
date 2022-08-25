@@ -1,6 +1,6 @@
 `timescale 1ns/1ns
 
-module tb_div_clk_4();
+module tb_div_clk();
 reg clk,rst;
 wire clk_4;
 

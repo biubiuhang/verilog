@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Aug 23 09:40:15 2022
+# Process ID: 46232
+# Current directory: D:/Zynq/youlaoshi_first/net9_clkdiv/programmer_ledflash/led_flash/led_flash.runs/impl_1
+# Command line: vivado.exe -log flash_led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source flash_led.tcl -notrace
+# Log file: D:/Zynq/youlaoshi_first/net9_clkdiv/programmer_ledflash/led_flash/led_flash.runs/impl_1/flash_led.vdi
+# Journal file: D:/Zynq/youlaoshi_first/net9_clkdiv/programmer_ledflash/led_flash/led_flash.runs/impl_1\vivado.jou
+# Running On: V_VZJHZENG-NB4, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 16, Host memory: 34204 MB
+#-----------------------------------------------------------
+source flash_led.tcl -notrace

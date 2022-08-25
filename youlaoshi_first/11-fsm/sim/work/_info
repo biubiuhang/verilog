@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Zynq/youlaoshi_first/10-top_test/sim
+T_opt
+!s110 1661326685
+VH3>W[izIG>`_6JDA@gF_82
+04 10 4 work tb_ex1_fsm fast 0
+=1-88a4c299047a-6305d55d-1cf-ed4c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vfsm
+!s110 1661326086
+!i10b 1
+!s100 In?H6=kgzYCciD;]kzmDl3
+Ic20=16Zf6ECa2TzRSPQ2<2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Zynq/youlaoshi_first/11-fsm/sim
+w1661323623
+8D:/Zynq/youlaoshi_first/11-fsm/design/fsm.v
+FD:/Zynq/youlaoshi_first/11-fsm/design/fsm.v
+L0 1
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1661326086.000000
+!s107 D:/Zynq/youlaoshi_first/11-fsm/design/fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/11-fsm/design/fsm.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_ex1_fsm
+!s110 1661326678
+!i10b 1
+!s100 MMA]_;U0@`YRHMHDba[7G2
+I1gJNReO14_9N2m]41B8C_3
+R1
+R2
+w1661326619
+8D:/Zynq/youlaoshi_first/11-fsm/sim/tb_fsm.v
+FD:/Zynq/youlaoshi_first/11-fsm/sim/tb_fsm.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1661326678.000000
+!s107 D:/Zynq/youlaoshi_first/11-fsm/sim/tb_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Zynq/youlaoshi_first/11-fsm/sim/tb_fsm.v|
+!i113 0
+R4
+R0
